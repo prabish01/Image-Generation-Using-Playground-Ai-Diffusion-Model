@@ -32,6 +32,9 @@ This project uses the Playground AI v2.5 diffusion model to automatically genera
 git clone https://github.com/yourusername/book-cover-generator.git
 cd book-cover-generator
 
+#Install reqirements
+pip install -r requirements.txt
+
 # Install dependencies
 pip install torch diffusers pandas tqdm nanoid
 ```
